@@ -31,6 +31,24 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=merlleu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# 📂 Repositories:
+
+## C#
+🔸 [pinte](https://github.com/merlleu/pinte)<br>
+🔸 [FleuristeSQL](https://github.com/merlleu/FleuristeSQL)<br>
+🔸 [ESILV_MotsMeles](https://github.com/merlleu/ESILV_MotsMeles)<br>
+
+## Rust
+🔸 [scylla-macros-flex](https://github.com/merlleu/scylla-macros-flex)<br>
+🔸 [anystruct](https://github.com/merlleu/anystruct)<br>
+🔸 [simple-async-cache-rs](https://github.com/merlleu/simple-async-cache-rs)<br>
+
+## Python
+🔸 [ldv-dashbot](https://github.com/merlleu/ldv-dashbot)<br>
+🔸 [yesmag-api](https://github.com/merlleu/yesmag-api)<br>
+🔸 [mrldb](https://github.com/merlleu/mrldb)<br>
+🔸 [minipush](https://github.com/merlleu/minipush)<br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=merlleu&icon=0&color=0)](https://visitcount.itsvg.in)
 
