@@ -28,12 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=merlleu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=merlleu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=merlleu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 # 📂 Repositories:
-
-
 
 ## Rust
 🚀 [scylla-macros-flex](https://github.com/merlleu/scylla-macros-flex)<br>
