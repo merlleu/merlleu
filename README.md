@@ -33,15 +33,17 @@
 
 # 📂 Repositories:
 
-## C#
-🍺 [pinte](https://github.com/merlleu/pinte)<br>
-💐 [FleuristeSQL](https://github.com/merlleu/FleuristeSQL)<br>
-🕹️ [ESILV_MotsMeles](https://github.com/merlleu/ESILV_MotsMeles)<br>
+
 
 ## Rust
 🚀 [scylla-macros-flex](https://github.com/merlleu/scylla-macros-flex)<br>
 🔧 [anystruct](https://github.com/merlleu/anystruct)<br>
 ⚙️ [simple-async-cache-rs](https://github.com/merlleu/simple-async-cache-rs)<br>
+
+## C# - School projects
+🍺 [pinte](https://github.com/merlleu/pinte)<br>
+💐 [FleuristeSQL](https://github.com/merlleu/FleuristeSQL)<br>
+🕹️ [ESILV_MotsMeles](https://github.com/merlleu/ESILV_MotsMeles)<br>
 
 ## Python
 🎒 [ldv-dashbot](https://github.com/merlleu/ldv-dashbot)<br>
