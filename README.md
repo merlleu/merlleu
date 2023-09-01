@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on wls-gg<br>🌱 I’m currently learning Kafka, gRPC, service mesh<br>📫 How to reach me mrerl@warlegend.net
+🔭 I’m currently working on wls-gg<br>🌱 I’m currently learning Kafka, gRPC, service mesh<br>📫 How to reach me mrerl@warlegend.net<br>
 💀 Not dead, just moved over to our hosted Gitea.
 
 ## 🌐 Socials:
