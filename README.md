@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on wls-gg<br>🌱 I’m currently learning Kafka, gRPC, service mesh<br>📫 How to reach me mrerl@warlegend.net
-
+💀 Not dead, just moved over to our hosted Gitea.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/remi-langdorph) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/merlleu) 
@@ -24,10 +24,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=merlleu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=merlleu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 # 📂 Repositories:
 
 ## Rust
@@ -46,7 +42,3 @@
 ⚗️ [mrldb](https://github.com/merlleu/mrldb)<br>
 🧮 [minipush](https://github.com/merlleu/minipush)<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=merlleu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
