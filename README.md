@@ -38,6 +38,7 @@
 
 ## Python
 🎒 [ldv-dashbot](https://github.com/merlleu/ldv-dashbot)<br>
+📚 [brightspace-scrapper](https://github.com/merlleu/brightspace-scrapper)<br>
 📖 [yesmag-api](https://github.com/merlleu/yesmag-api)<br>
 ⚗️ [mrldb](https://github.com/merlleu/mrldb)<br>
 🧮 [minipush](https://github.com/merlleu/minipush)<br>
