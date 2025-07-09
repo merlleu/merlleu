@@ -24,6 +24,8 @@
 # 📂 Repositories:
 
 ## Rust
+🧑‍💼 [majordome](https://github.com/merlleu/majordome)<br>
+📋 [serialize-fields](https://github.com/merlleu/serialize-fields)<br>
 🚀 [scylla-macros-flex](https://github.com/merlleu/scylla-macros-flex)<br>
 🔧 [anystruct](https://github.com/merlleu/anystruct)<br>
 ⚙️ [simple-async-cache-rs](https://github.com/merlleu/simple-async-cache-rs)<br>
